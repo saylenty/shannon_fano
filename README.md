@@ -2,7 +2,7 @@ shannon_fano
 ============
 
 The script implements Shennon-Fano coding algorithm.<br>
-For more details, have a look at the wiki page: [Shannon-Fano](https://en.wikipedia.org/wiki/Shannon%E2%80%93Fano_coding))<br>
+For more details, have a look at the wiki page: [Shannon-Fano](https://en.wikipedia.org/wiki/Shannon%E2%80%93Fano_coding)<br>
 Moreover, the script calculates some additional info:
 
 <ul>
