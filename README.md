@@ -1,7 +1,7 @@
 shannon_fano
 ============
 
-Algorithm implements Shennon-Fano encryption method.<br>
+The script implements Shennon-Fano coding algorithm.<br>
 For more details, have a look at the wiki page: [Shannon-Fano](https://en.wikipedia.org/wiki/Shannon%E2%80%93Fano_coding))<br>
 Moreover, the script calculates some additional info:
 
@@ -19,4 +19,4 @@ Script can accept:
     <li>a dictionary which indicates involved letters and their frequencies</li>
 </ul>
 
-__Pay attention__: script build the code using only binary code
+__Pay attention__: script builds the code using only binary coding
